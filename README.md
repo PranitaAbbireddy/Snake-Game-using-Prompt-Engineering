@@ -4,7 +4,7 @@ This is a classic snake game where the player controls a snake to eat food, caus
 
 ## Prompt
 
-I used the following prompt in ChatGPT to generate the snakegame.html file and implement the Snake game using prompt engineering:
+I used the following prompt in ChatGPT to generate the game file and implement the Snake game using prompt engineering:
 
 1. Imagine you are a game developer. Please generate a classic snake game where the player controls a snake to eat food and it grows longer. The game should have a score count.
 2. The game should be styled to have a dark aesthetic with tiles. The snake should be gray in color with each tile of the body using a different shade of gray and slim black borders. Add a background shadow with gray color. The food of the snake should be neon green in color with shadows.
