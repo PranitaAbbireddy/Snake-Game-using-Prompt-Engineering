@@ -14,7 +14,7 @@ I used the following prompt to generate the snakegame.html file and implement th
 ## How to Run the Game
 
 1. Clone or download the repository.
-2. Open the `snakegame.html` file in a web browser.
+2. Open the `SnakeGame.html` file in a web browser.
 
 ## Features
 
